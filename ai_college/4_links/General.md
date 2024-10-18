@@ -1,0 +1,2 @@
+- [s7 gdrive](https://drive.google.com/drive/u/1/folders/1H0AZ77VjU0KzYEgZ1paKW_dqZelUQj_q)
+- 
