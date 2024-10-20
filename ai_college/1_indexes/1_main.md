@@ -1,3 +1,10 @@
+
+Learn:
+- [[mod3]]
+- [[mod4]]
+- 
+
+
 - links:
 	- [xmind files](https://drive.google.com/drive/folders/1Limv0bkGqYcUncnPe2nyCyjTmcUpGdSG?usp=drive_link)
 	- [notes](https://drive.google.com/drive/u/1/folders/131qyk1APFre-IOR3hxiXCE5fzajtBxGt):
@@ -17,8 +24,8 @@
 			- [kerala notes](https://drive.google.com/file/d/11kwijrYVTq750Er-jYB0hDsJDz5Guewt/view?usp=drive_link)
 			- [ktu notes](https://drive.google.com/file/d/1T4k2d-DSZOkzmBEBxROE6igvlYB_fCMb/view?usp=drive_link)
 		- mod4
+			- [eduline](https://drive.google.com/file/d/1GjrCZ9gdIIfqUaY_A-qpZar22mB5fEMW/view?usp=drive_link)
+			- [kerala notes](https://drive.google.com/file/d/1nogD42J7RKnczN-RoWzLVxCWVjKLkl4K/view?usp=drive_link)
+			- [ktu notes](https://drive.google.com/file/d/1mTFwvWqAgS1RYicvjA4BXJD-xxr9dZyT/view?usp=drive_link)
 
 
-Learn:
-- [[mod3]]
-- 

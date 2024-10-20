@@ -1,0 +1,15 @@
+- [2022 dec](https://drive.google.com/file/d/1s6rK8ne4u0e26pv7JX7PPqVln2rGy60D/view?usp=drive_link)
+	- 3
+		- Define node consistency with an example.
+			- 
+		- Define the term least constraining value in CSP
+			- 
+	- 7
+		- ![[Pasted image 20241019012306.png]]
+			- 
+		- ![[Pasted image 20241019012228.png]]
+			- 
+		- ![[Pasted image 20241019012130.png|600]]
+			- 
+		- ![[Pasted image 20241019011853.png|354]]
+			- 

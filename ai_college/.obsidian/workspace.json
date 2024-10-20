@@ -25,14 +25,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI.md",
+                "file": "1_indexes/mod3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf1819f935d836e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_indexes/mod4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "84003470ac2aaced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c05267f21119b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_questions/mod4/2022_dec_mod4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI.md",
+                "file": "1_indexes/mod4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI.md",
+                "file": "1_indexes/mod4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI.md"
+                "file": "1_indexes/mod4.md"
               }
             }
           }
@@ -159,16 +189,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fb4979b33ecbb54",
+  "active": "cf1819f935d836e9",
   "lastOpenFiles": [
-    "mod3.md",
-    "Pasted image 20241019002849.png",
-    "AI.md",
+    "3_questions/mod4/2022_dec_mod4.md",
+    "1_indexes/mod4.md",
+    "1_indexes/1_main.md",
     "4_links/General.md",
+    "5_resources/Pasted image 20241020173935.png",
+    "3_questions/mod4",
+    "5_resources/Pasted image 20241020174344.png",
+    "5_resources/Pasted image 20241020174213.png",
+    "5_resources/Pasted image 20241020174201.png",
+    "5_resources/Pasted image 20241020174143.png",
+    "5_resources/Pasted image 20241020174119.png",
+    "5_resources/Pasted image 20241020174047.png",
+    "1_indexes/mod3.md",
+    "3_questions/mod3/2022_dec_mod3.md",
+    "3_questions/mod3/2023_may_mod3.md",
+    "2_answers/mod_3",
+    "3_questions/mod3/2023_dec_mod3.md",
+    "5_resources/Pasted image 20241019002849.png",
+    "3_questions/mod3/2024_may_mod3.md",
+    "5_resources/Pasted image 20241019012306.png",
+    "3_questions/mod3",
+    "5_resources/Pasted image 20241019012130.png",
+    "5_resources",
     "Welcome.md",
     "4_links",
-    "3_subjectwise_notes",
-    "2_tags",
+    "3_questions",
+    "2_answers",
     "1_indexes"
   ]
 }
