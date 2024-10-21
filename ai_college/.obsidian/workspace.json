@@ -6,6 +6,7 @@
       {
         "id": "e1d0ebacf8891ee1",
         "type": "tabs",
+        "dimension": 46.715328467153284,
         "children": [
           {
             "id": "953365493727cfd6",
@@ -25,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/mod3.md",
-                "mode": "source",
+                "file": "1_indexes/mod4.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -37,18 +38,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/mod4.md",
+                "file": "2_answers/mod4/Knowledge representation in FOL.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "84003470ac2aaced",
         "type": "tabs",
+        "dimension": 53.284671532846716,
         "children": [
           {
             "id": "e1c05267f21119b3",
@@ -57,6 +59,18 @@
               "type": "markdown",
               "state": {
                 "file": "3_questions/mod4/2022_dec_mod4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f6f49695d8731c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp.md",
                 "mode": "source",
                 "source": false
               }
@@ -189,11 +203,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf1819f935d836e9",
+  "active": "0fb4979b33ecbb54",
   "lastOpenFiles": [
-    "3_questions/mod4/2022_dec_mod4.md",
-    "1_indexes/mod4.md",
     "1_indexes/1_main.md",
+    "1_indexes/mod3.md",
+    "1_indexes/mod4.md",
+    "FOL to CNF.md",
+    "3_questions/mod4/2022_dec_mod4.md",
+    "2_answers/mod4/using first order logic.md",
+    "2_answers/mod4/First order predicate logic.md",
+    "2_answers/mod4/unification and lifting.md",
+    "5_resources/Pasted image 20241021104750.png",
+    "5_resources/Pasted image 20241021110312.png",
+    "temp.md",
+    "2_answers/mod4/Knowledge based agents.md",
+    "2_answers/mod4/logic.md",
+    "2_answers/mod4/Propositional vs first order inference.md",
+    "2_answers/mod4/resolution.md",
+    "2_answers/mod4/forward chaining.md",
+    "2_answers/mod4/propositional theorem proving.md",
+    "2_answers/mod4/propositional logic.md",
+    "2_answers/mod4/Syllabus_mod4.md",
+    "2_answers/mod4/Knowledge representation in FOL.md",
+    "2_answers/mod4/backward chaining.md",
+    "2_answers/mod4",
     "4_links/General.md",
     "5_resources/Pasted image 20241020173935.png",
     "3_questions/mod4",
@@ -203,16 +236,13 @@
     "5_resources/Pasted image 20241020174143.png",
     "5_resources/Pasted image 20241020174119.png",
     "5_resources/Pasted image 20241020174047.png",
-    "1_indexes/mod3.md",
     "3_questions/mod3/2022_dec_mod3.md",
     "3_questions/mod3/2023_may_mod3.md",
     "2_answers/mod_3",
     "3_questions/mod3/2023_dec_mod3.md",
     "5_resources/Pasted image 20241019002849.png",
     "3_questions/mod3/2024_may_mod3.md",
-    "5_resources/Pasted image 20241019012306.png",
     "3_questions/mod3",
-    "5_resources/Pasted image 20241019012130.png",
     "5_resources",
     "Welcome.md",
     "4_links",

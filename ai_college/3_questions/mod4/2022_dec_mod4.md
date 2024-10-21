@@ -1,6 +1,6 @@
 - 3
-	- [ ] ![[Pasted image 20241020173935.png]]
-		- b
+	- [ ] ![[Pasted image 20241021104750.png]]
+		- [[unification and lifting]]
 	- ![[Pasted image 20241020174047.png]]
 		- 
 - 7
