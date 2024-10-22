@@ -1,3 +1,9 @@
 - [2024 may](https://drive.google.com/file/d/1iy45maPp8b8lCvHYX30fIdVCT4ERu6xp/view?usp=drive_link)
 	- 3
+		- ![[Pasted image 20241021203325.png]]
+		- ![[Pasted image 20241021203333.png]]
 	- 7
+		- ![[Pasted image 20241021203348.png]]
+		- ![[Pasted image 20241021203359.png]]
+		- ![[Pasted image 20241021203408.png]]
+		- ![[Pasted image 20241021203420.png]]
