@@ -1,36 +1,26 @@
 {
   "main": {
-    "id": "970c07b5fa94f10a",
+    "id": "0059bf175d2cbf72",
     "type": "split",
     "children": [
       {
-        "id": "e1d0ebacf8891ee1",
+        "id": "13614aa866d73586",
         "type": "tabs",
         "children": [
           {
-            "id": "953365493727cfd6",
+            "id": "1115b0d1cd8d7048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_links/General.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0fb4979b33ecbb54",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "5_resources/Pasted image 20241021214722.png"
-              }
-            }
-          },
-          {
-            "id": "0ffb7444fc53f8f9",
+            "id": "e7c8b41f5bf966ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,33 +32,45 @@
             }
           },
           {
-            "id": "cf1819f935d836e9",
+            "id": "262f73e0432dbaad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_answers/mod4/Knowledge representation in FOL.md",
+                "file": "1_indexes/mod3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d5809542044ba9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_indexes/1_main.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "49fd873e028ecb7a",
+    "id": "35cb52be2e74d05b",
     "type": "split",
     "children": [
       {
-        "id": "9f282a5ffd6ef6aa",
+        "id": "b52ed4307cffe50e",
         "type": "tabs",
         "children": [
           {
-            "id": "1581980f177ce6b7",
+            "id": "1e2a6ca91e834309",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -78,7 +80,7 @@
             }
           },
           {
-            "id": "8a54d58cae5447ef",
+            "id": "4cc708f04a6e680b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,7 +95,7 @@
             }
           },
           {
-            "id": "68b0b6ded45030d7",
+            "id": "36754c8ad183852b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,15 +109,15 @@
     "width": 300
   },
   "right": {
-    "id": "382c0a9c4833acf0",
+    "id": "6a48c11ff17dae5f",
     "type": "split",
     "children": [
       {
-        "id": "ad786c00c07f9cf0",
+        "id": "3642e0bdaf3bb8ab",
         "type": "tabs",
         "children": [
           {
-            "id": "62aff16158c72906",
+            "id": "4a22f92f23c26f92",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -132,7 +134,7 @@
             }
           },
           {
-            "id": "2c41ea9c0a6c6756",
+            "id": "23f0b709f28faeae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -144,7 +146,7 @@
             }
           },
           {
-            "id": "cfd7e2116070fbc1",
+            "id": "b2f903d7730fffd6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -155,7 +157,7 @@
             }
           },
           {
-            "id": "263b975687f371eb",
+            "id": "7ed5794baaf67d9c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -181,50 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ffb7444fc53f8f9",
+  "active": "9d5809542044ba9a",
   "lastOpenFiles": [
-    "3_questions/mod3/2023_may_mod3.md",
     "1_indexes/mod4.md",
-    "1_indexes/1_main.md",
-    "1_indexes/mod3.md",
-    "3_questions/mod3/2022_dec_mod3.md",
-    "2_answers/mod_3/Adversarial Search.md",
-    "5_resources/set1/Pasted image 20241021203101.png",
-    "5_resources/set1/Pasted image 20241021203148.png",
-    "5_resources/set1/Pasted image 20241019002849.png",
-    "4_links/General.md",
-    "5_resources/set1",
-    "2_answers/mod_3/the minimax algorithm.md",
-    "readme.md",
-    "temp.md",
-    "5_resources/Pasted image 20241021214722.png",
-    "5_resources/Pasted image 20241021214715.png",
-    "5_resources/Pasted image 20241021214705.png",
-    "5_resources/Pasted image 20241021214657.png",
-    "5_resources/Pasted image 20241021214648.png",
-    "5_resources/Pasted image 20241021214636.png",
-    "5_resources/Pasted image 20241021210529.png",
-    "2_answers/mod_3/games.md",
-    "3_questions/mod3/2023_dec_mod3.md",
-    "3_questions/mod3/2024_may_mod3.md",
-    "3_questions/mod4/2022_dec_mod4.md",
-    "2_answers/mod4/FOL to CNF.md",
-    "2_answers/mod4/using first order logic.md",
-    "2_answers/mod4/First order predicate logic.md",
-    "2_answers/mod4/unification and lifting.md",
-    "2_answers/mod4/Knowledge based agents.md",
-    "2_answers/mod4/logic.md",
-    "2_answers/mod4/Propositional vs first order inference.md",
-    "2_answers/mod4/resolution.md",
-    "2_answers/mod4/forward chaining.md",
-    "2_answers/mod4/propositional theorem proving.md",
-    "2_answers/mod4/propositional logic.md",
     "2_answers/mod4",
-    "3_questions/mod4",
-    "2_answers/mod_3",
-    "3_questions/mod3",
-    "5_resources",
+    "2_answers/mod3",
+    "1_indexes/mod3.md",
+    "1_indexes/1_main.md",
+    "readme.md",
     "4_links",
+    "5_resources",
     "3_questions",
     "2_answers",
     "1_indexes"

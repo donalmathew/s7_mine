@@ -11,8 +11,12 @@
             "id": "81d7ee4a9f8947d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1_indexes/1_main.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -165,6 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1_indexes/1_main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,6 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1_indexes/1_main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +208,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1_indexes/1_main.md"
+              }
             }
           }
         ]
@@ -224,6 +232,11 @@
   },
   "active": "81d7ee4a9f8947d1",
   "lastOpenFiles": [
+    "1_indexes/mod3.md",
+    "1_indexes/mod4.md",
+    "1_indexes/1_main.md",
+    "1_indexes/rejimol maam.md",
+    "2_answers/mod3/initialising and manipulating arrays.md",
     "2_answers/mod3/working with functions.md",
     "2_answers/mod3/Varibles_datatypes.md",
     "2_answers/mod3/syllabus_mod3.md",
@@ -232,10 +245,6 @@
     "2_answers/mod3/control statements.md",
     "readme.md",
     "5_resources/set3/Pasted image 20241023004631.png",
-    "1_indexes/mod3.md",
-    "1_indexes/mod4.md",
-    "1_indexes/rejimol maam.md",
-    "2_answers/mod3/initialising and manipulating arrays.md",
     "5_resources/set3/Pasted image 20241023004605.png",
     "5_resources/set3/Pasted image 20241023004509.png",
     "5_resources/set3/Pasted image 20241023003902.png",
@@ -252,7 +261,6 @@
     "2_answers/mod3/operators and expressions.md",
     "2_answers/mod4/syllabus_mod4.md",
     "3_questions/mod3/2022_dec_mod4.md",
-    "1_indexes/1_main.md",
     "3_questions/mod3/2022_dec_mod3.md",
     "3_questions/mod3/2023_dec_mod3.md",
     "3_questions/mod4",
