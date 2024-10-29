@@ -35,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/1_main.md",
-                "mode": "source",
+                "file": "1_indexes/mod4.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_indexes/1_main.md",
+                "file": "1_indexes/mod4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_indexes/1_main.md",
+                "file": "1_indexes/mod4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_indexes/1_main.md"
+                "file": "1_indexes/mod4.md"
               }
             }
           }
@@ -183,18 +183,20 @@
   },
   "active": "0ffb7444fc53f8f9",
   "lastOpenFiles": [
-    "3_questions/mod3/2023_may_mod3.md",
+    "2024_may_mod4.md",
     "1_indexes/mod4.md",
     "1_indexes/1_main.md",
     "1_indexes/mod3.md",
-    "3_questions/mod3/2022_dec_mod3.md",
+    "2_answers/mod_3/the minimax algorithm.md",
+    "2_answers/mod_3/games.md",
     "2_answers/mod_3/Adversarial Search.md",
+    "3_questions/mod3/2023_may_mod3.md",
+    "3_questions/mod3/2022_dec_mod3.md",
     "5_resources/set1/Pasted image 20241021203101.png",
     "5_resources/set1/Pasted image 20241021203148.png",
     "5_resources/set1/Pasted image 20241019002849.png",
     "4_links/General.md",
     "5_resources/set1",
-    "2_answers/mod_3/the minimax algorithm.md",
     "readme.md",
     "temp.md",
     "5_resources/Pasted image 20241021214722.png",
@@ -204,7 +206,6 @@
     "5_resources/Pasted image 20241021214648.png",
     "5_resources/Pasted image 20241021214636.png",
     "5_resources/Pasted image 20241021210529.png",
-    "2_answers/mod_3/games.md",
     "3_questions/mod3/2023_dec_mod3.md",
     "3_questions/mod3/2024_may_mod3.md",
     "3_questions/mod4/2022_dec_mod4.md",
