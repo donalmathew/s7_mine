@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/1_lex_using_c/1_algorithm.md",
+                "file": "3. Notes/1_lex_using_c/1.1_algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/common code/getting_tokens.md",
+                "file": "3. Notes/viva/set-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Notes/common code/getting_tokens.md",
+                "file": "3. Notes/viva/set-1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Notes/common code/getting_tokens.md",
+                "file": "3. Notes/viva/set-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Notes/common code/getting_tokens.md"
+                "file": "3. Notes/viva/set-1.md"
               }
             }
           }
@@ -206,13 +206,17 @@
   },
   "active": "b9fbfa74d33971a6",
   "lastOpenFiles": [
-    "3. Notes/1_lex_using_c/1_algorithm.md",
     "3. Notes/1_lex_using_c/1_index.md",
-    "5. resources/Pasted image 20241011211416.png",
+    "3. Notes/1_lex_using_c/1.4_testing_program.md",
+    "3. Notes/1_lex_using_c/1.3_additional_files.md",
+    "3. Notes/1_lex_using_c/1.2_code.md",
+    "3. Notes/1_lex_using_c/1.1_algorithm.md",
+    "5. resources/Pasted image 20241102160432.png",
+    "1. indexes/Lab Questions.md",
     "3. Notes/common code/getting_tokens.md",
+    "5. resources/Pasted image 20241011211416.png",
     "3. Notes/running lex program.md",
     "3. Notes/common code",
-    "1. indexes/Lab Questions.md",
     "3. Notes/6_lexical analyzer using lex tool/6_index.md",
     "3. Notes/6_lexical analyzer using lex tool/6_testing_program.md",
     "3. Notes/1_lex_using_c",

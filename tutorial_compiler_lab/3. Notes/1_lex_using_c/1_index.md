@@ -1,6 +1,7 @@
 ![[Pasted image 20241101230225.png]]
 
-- [[1_algorithm]]
-- [[1_code]]
-- [[1_testing_program]]
+- [[1.1_algorithm]]
+- [[1.2_code]]
+- [[1.3_additional_files]]
+- [[1.4_testing_program]]
 - 
