@@ -6,7 +6,7 @@
       {
         "id": "0aaa531f46935f8a",
         "type": "tabs",
-        "dimension": 59.16515426497278,
+        "dimension": 50,
         "children": [
           {
             "id": "1896631c5b2878d6",
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/viva/set-1.md",
+                "file": "3. Notes/2 recursive descent parser/2_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,27 +50,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/running lex program.md",
+                "file": "3. Notes/3 shift reduce parser/3_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
-        "id": "7076de67df106775",
+        "id": "141943df671567c0",
         "type": "tabs",
-        "dimension": 40.83484573502722,
+        "dimension": 50,
         "children": [
           {
-            "id": "49a0e0a52ea969d3",
+            "id": "cab7e57bbcaf613d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/6_lexical analyzer using lex tool/6_index.md",
+                "file": "3. Notes/1_lex_using_c/1_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Notes/viva/set-1.md",
+                "file": "3. Notes/3 shift reduce parser/3_index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Notes/viva/set-1.md",
+                "file": "3. Notes/3 shift reduce parser/3_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Notes/viva/set-1.md"
+                "file": "3. Notes/3 shift reduce parser/3_index.md"
               }
             }
           }
@@ -204,24 +204,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9fbfa74d33971a6",
+  "active": "daec92f72746bd6b",
   "lastOpenFiles": [
+    "3. Notes/3 shift reduce parser",
+    "5. resources/Pasted image 20241103092115.png",
+    "1. indexes/Lab Questions.md",
+    "3. Notes/3 shift reduce parser/3_index.md",
+    "5. resources/Pasted image 20241102194115.png",
+    "3. Notes/2 recursive descent parser/2_index.md",
+    "3. Notes/2 recursive descent parser",
+    "3. Notes/2 recursive descent parser/2.1_algorithm.md",
+    "3. Notes/2 recursive descent parser/2.4_testing_program.md",
+    "5. resources/Pasted image 20241103091853.png",
+    "3. Notes/running lex program.md",
+    "3. Notes/6_lexical analyzer using lex tool/6_algorithm.md",
+    "3. Notes/2 recursive descent parser/2.2_code.md",
     "3. Notes/1_lex_using_c/1_index.md",
-    "3. Notes/1_lex_using_c/1.4_testing_program.md",
-    "3. Notes/1_lex_using_c/1.3_additional_files.md",
     "3. Notes/1_lex_using_c/1.2_code.md",
     "3. Notes/1_lex_using_c/1.1_algorithm.md",
+    "3. Notes/viva/set-1.md",
+    "3. Notes/1_lex_using_c/1.4_testing_program.md",
+    "3. Notes/1_lex_using_c/1.3_additional_files.md",
     "5. resources/Pasted image 20241102160432.png",
-    "1. indexes/Lab Questions.md",
     "3. Notes/common code/getting_tokens.md",
     "5. resources/Pasted image 20241011211416.png",
-    "3. Notes/running lex program.md",
     "3. Notes/common code",
     "3. Notes/6_lexical analyzer using lex tool/6_index.md",
     "3. Notes/6_lexical analyzer using lex tool/6_testing_program.md",
     "3. Notes/1_lex_using_c",
     "5. resources/Pasted image 20241101230225.png",
-    "3. Notes/6_lexical analyzer using lex tool/6_algorithm.md",
     "3. Notes/6_lexical analyzer using lex tool/6_lexical.l.md",
     "3. Notes/6_lexical analyzer using lex tool/6_var.c.md",
     "3. Notes/6_lexical analyzer using lex tool/6_code.md",
@@ -230,7 +241,6 @@
     "3. Notes/8_substring",
     "3. Notes/7_Lines_words,character count",
     "3. Notes/6_lexical analyzer using lex tool",
-    "3. Notes/viva/set-1.md",
     "3. Notes/7_Lines_words,character count/7. Lines, words, character count.md",
     "3. Notes/8_substring/8. substring.md",
     "3. Notes/viva",
@@ -239,7 +249,6 @@
     "5. resources",
     "4. references",
     "3. Notes",
-    "2. Cards",
     "Welcome.md"
   ]
 }
