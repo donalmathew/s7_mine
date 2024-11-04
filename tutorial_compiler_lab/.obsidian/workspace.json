@@ -6,7 +6,7 @@
       {
         "id": "0aaa531f46935f8a",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 66.51542649727767,
         "children": [
           {
             "id": "1896631c5b2878d6",
@@ -38,9 +38,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/6_lexical analyzer using lex tool/6_algorithm.md",
+                "file": "3. Notes/10_arithmetic/10_arithmeticexpr.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0a64af89b27698cf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "5. resources/Pasted image 20241104211835.png"
               }
             }
           },
@@ -50,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/3 shift reduce parser/3_index.md",
+                "file": "3. Notes/6_lexical analyzer using lex tool/6.3_testing_program.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,7 +72,7 @@
       {
         "id": "141943df671567c0",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 33.48457350272233,
         "children": [
           {
             "id": "cab7e57bbcaf613d",
@@ -70,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/1_lex_using_c/1_index.md",
+                "file": "3. Notes/6_lexical analyzer using lex tool/6_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Notes/3 shift reduce parser/3_index.md",
+                "file": "5. resources/Pasted image 20241104211835.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Notes/3 shift reduce parser/3_index.md",
+                "file": "5. resources/Pasted image 20241104211835.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Notes/3 shift reduce parser/3_index.md"
+                "file": "5. resources/Pasted image 20241104211835.png"
               }
             }
           }
@@ -206,49 +216,50 @@
   },
   "active": "daec92f72746bd6b",
   "lastOpenFiles": [
-    "3. Notes/3 shift reduce parser",
-    "5. resources/Pasted image 20241103092115.png",
+    "3. Notes/12_calculator/12_calculator.md",
+    "3. Notes/12_calculator/12.2_code.md",
+    "3. Notes/12_calculator",
+    "3. Notes/12_calculator/12.2.2_cal.l.md",
+    "3. Notes/12_calculator/12.2.1_cal.y.md",
+    "3. Notes/11_valid_identifier/11_valid_identifier.md",
+    "3. Notes/12_calculator/12.3_testing_code.md",
+    "5. resources/Pasted image 20241104212416.png",
+    "5. resources/Pasted image 20241104211835.png",
     "1. indexes/Lab Questions.md",
-    "3. Notes/3 shift reduce parser/3_index.md",
-    "5. resources/Pasted image 20241102194115.png",
-    "3. Notes/2 recursive descent parser/2_index.md",
-    "3. Notes/2 recursive descent parser",
-    "3. Notes/2 recursive descent parser/2.1_algorithm.md",
-    "3. Notes/2 recursive descent parser/2.4_testing_program.md",
-    "5. resources/Pasted image 20241103091853.png",
-    "3. Notes/running lex program.md",
-    "3. Notes/6_lexical analyzer using lex tool/6_algorithm.md",
-    "3. Notes/2 recursive descent parser/2.2_code.md",
-    "3. Notes/1_lex_using_c/1_index.md",
-    "3. Notes/1_lex_using_c/1.2_code.md",
-    "3. Notes/1_lex_using_c/1.1_algorithm.md",
-    "3. Notes/viva/set-1.md",
-    "3. Notes/1_lex_using_c/1.4_testing_program.md",
-    "3. Notes/1_lex_using_c/1.3_additional_files.md",
-    "5. resources/Pasted image 20241102160432.png",
-    "3. Notes/common code/getting_tokens.md",
-    "5. resources/Pasted image 20241011211416.png",
-    "3. Notes/common code",
+    "5. resources/Pasted image 20241104210339.png",
+    "3. Notes/11_valid_identifier",
+    "3. Notes/11_valid_identifier/11.2_code.md",
+    "3. Notes/running yacc program.md",
+    "3. Notes/11_valid_identifier/11.3_testing_code.md",
+    "3. Notes/11_valid_identifier/11.2.2_identifier.l.md",
+    "3. Notes/11_valid_identifier/11.2.1_identifier.y.md",
+    "3. Notes/10_arithmetic/10_arithmeticexpr.md",
+    "5. resources/Pasted image 20241104211341.png",
+    "5. resources/Pasted image 20241104203000.png",
+    "3. Notes/10_arithmetic/10.2.1_exp.y.md",
+    "3. Notes/10_arithmetic",
+    "3. Notes/10_arithmetic/10.2_code.md",
+    "3. Notes/10_arithmetic/10.2.2_exp.l.md",
+    "3. Notes/10_arithmetic/10.3_testing_code.md",
+    "5. resources/Pasted image 20241104205148.png",
+    "3. Notes/9_vowels/9. vowels.md",
+    "3. Notes/8_substring/8_index.md",
+    "3. Notes/7_Lines_words,character count/7_index.md",
     "3. Notes/6_lexical analyzer using lex tool/6_index.md",
-    "3. Notes/6_lexical analyzer using lex tool/6_testing_program.md",
+    "5. resources/Pasted image 20241104195040.png",
+    "3. Notes/9_vowels",
+    "3. Notes/9_vowels/9.2_code.md",
+    "3. Notes/9_vowels/9.3_testing_code.md",
+    "5. resources/Pasted image 20241104202535.png",
+    "3. Notes/3 shift reduce parser/3.2_code.md",
+    "3. Notes/3 shift reduce parser/3_index.md",
+    "5. resources/Pasted image 20241104194530.png",
+    "5. resources/Pasted image 20241104194740.png",
+    "3. Notes/3 shift reduce parser",
+    "3. Notes/2 recursive descent parser",
+    "3. Notes/common code",
     "3. Notes/1_lex_using_c",
-    "5. resources/Pasted image 20241101230225.png",
-    "3. Notes/6_lexical analyzer using lex tool/6_lexical.l.md",
-    "3. Notes/6_lexical analyzer using lex tool/6_var.c.md",
-    "3. Notes/6_lexical analyzer using lex tool/6_code.md",
-    "5. resources/Pasted image 20241101165100.png",
-    "1. indexes/viva questions.md",
     "3. Notes/8_substring",
-    "3. Notes/7_Lines_words,character count",
-    "3. Notes/6_lexical analyzer using lex tool",
-    "3. Notes/7_Lines_words,character count/7. Lines, words, character count.md",
-    "3. Notes/8_substring/8. substring.md",
-    "3. Notes/viva",
-    "5. resources/Pasted image 20241011211550.png",
-    "5. resources/Pasted image 20241011211534.png",
-    "5. resources",
-    "4. references",
-    "3. Notes",
-    "Welcome.md"
+    "3. Notes/7_Lines_words,character count"
   ]
 }

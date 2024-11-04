@@ -3,13 +3,14 @@
 - [[1_index]]
 - [[2_index]]
 - [[3_index]]
-- 
+
 ![[Pasted image 20241011211534.png]]
 - [[6_index]]
-- [[7. Lines, words, character count]]
-- [[8. substring]]
+- [[7_index]]
+- [[8_index]]
 - [[9. vowels]]
 
-
-
 ![[Pasted image 20241011211550.png]]
+- [[10_arithmeticexpr]]
+- [[11_valid_identifier]]
+- [[12_calculator]]

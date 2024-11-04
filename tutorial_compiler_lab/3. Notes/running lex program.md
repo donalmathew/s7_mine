@@ -4,5 +4,5 @@ $ lex lexical.l
 
 $ cc lex.yy.c
 
-$ ./a.out
+$ ./a.out <input-file-name, if needed>
 ```
