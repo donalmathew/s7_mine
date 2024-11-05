@@ -14,3 +14,6 @@
 - [[10_arithmeticexpr]]
 - [[11_valid_identifier]]
 - [[12_calculator]]
+
+![[Pasted image 20241104221523.png]]
+- [[13_epsilon_closure]]

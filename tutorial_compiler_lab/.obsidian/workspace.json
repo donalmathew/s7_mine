@@ -6,7 +6,6 @@
       {
         "id": "0aaa531f46935f8a",
         "type": "tabs",
-        "dimension": 66.51542649727767,
         "children": [
           {
             "id": "1896631c5b2878d6",
@@ -48,9 +47,11 @@
             "id": "0a64af89b27698cf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "5. resources/Pasted image 20241104211835.png"
+                "file": "3. Notes/7_Lines_words,character count/7.1_algorithm.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -68,25 +69,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "141943df671567c0",
-        "type": "tabs",
-        "dimension": 33.48457350272233,
-        "children": [
-          {
-            "id": "cab7e57bbcaf613d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Notes/6_lexical analyzer using lex tool/6_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. resources/Pasted image 20241104211835.png",
+                "file": "3. Notes/7_Lines_words,character count/7.1_algorithm.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. resources/Pasted image 20241104211835.png",
+                "file": "3. Notes/7_Lines_words,character count/7.1_algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. resources/Pasted image 20241104211835.png"
+                "file": "3. Notes/7_Lines_words,character count/7.1_algorithm.md"
               }
             }
           }
@@ -214,52 +196,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "daec92f72746bd6b",
+  "active": "0a64af89b27698cf",
   "lastOpenFiles": [
-    "3. Notes/12_calculator/12_calculator.md",
-    "3. Notes/12_calculator/12.2_code.md",
-    "3. Notes/12_calculator",
-    "3. Notes/12_calculator/12.2.2_cal.l.md",
-    "3. Notes/12_calculator/12.2.1_cal.y.md",
-    "3. Notes/11_valid_identifier/11_valid_identifier.md",
-    "3. Notes/12_calculator/12.3_testing_code.md",
-    "5. resources/Pasted image 20241104212416.png",
-    "5. resources/Pasted image 20241104211835.png",
-    "1. indexes/Lab Questions.md",
-    "5. resources/Pasted image 20241104210339.png",
-    "3. Notes/11_valid_identifier",
-    "3. Notes/11_valid_identifier/11.2_code.md",
-    "3. Notes/running yacc program.md",
-    "3. Notes/11_valid_identifier/11.3_testing_code.md",
-    "3. Notes/11_valid_identifier/11.2.2_identifier.l.md",
-    "3. Notes/11_valid_identifier/11.2.1_identifier.y.md",
+    "3. Notes/2 recursive descent parser/2_index.md",
     "3. Notes/10_arithmetic/10_arithmeticexpr.md",
-    "5. resources/Pasted image 20241104211341.png",
-    "5. resources/Pasted image 20241104203000.png",
-    "3. Notes/10_arithmetic/10.2.1_exp.y.md",
-    "3. Notes/10_arithmetic",
-    "3. Notes/10_arithmetic/10.2_code.md",
-    "3. Notes/10_arithmetic/10.2.2_exp.l.md",
-    "3. Notes/10_arithmetic/10.3_testing_code.md",
-    "5. resources/Pasted image 20241104205148.png",
-    "3. Notes/9_vowels/9. vowels.md",
-    "3. Notes/8_substring/8_index.md",
-    "3. Notes/7_Lines_words,character count/7_index.md",
-    "3. Notes/6_lexical analyzer using lex tool/6_index.md",
-    "5. resources/Pasted image 20241104195040.png",
-    "3. Notes/9_vowels",
-    "3. Notes/9_vowels/9.2_code.md",
-    "3. Notes/9_vowels/9.3_testing_code.md",
-    "5. resources/Pasted image 20241104202535.png",
+    "3. Notes/7_Lines_words,character count/7.1_algorithm.md",
+    "3. Notes/7_Lines_words,character count/7.2.1_count.l.md",
+    "3. Notes/6_lexical analyzer using lex tool/6.1_algorithm.md",
+    "3. Notes/6_lexical analyzer using lex tool/6.2.1_lexical.l.md",
     "3. Notes/3 shift reduce parser/3.2_code.md",
     "3. Notes/3 shift reduce parser/3_index.md",
-    "5. resources/Pasted image 20241104194530.png",
-    "5. resources/Pasted image 20241104194740.png",
+    "3. Notes/2 recursive descent parser/2.1_algorithm.md",
+    "3. Notes/2 recursive descent parser/2.2_code.md",
+    "3. Notes/1_lex_using_c/1.1_algorithm.md",
+    "3. Notes/1_lex_using_c/1.2_code.md",
+    "3. Notes/13_epsilon/13.1_algorithm.md",
+    "3. Notes/13_epsilon/13_epsilon_closure.md",
+    "3. Notes/13_epsilon/13.2_code.md",
+    "3. Notes/12_calculator/12.1_algorithm.md",
+    "3. Notes/12_calculator/12_calculator.md",
+    "3. Notes/12_calculator/12.2.2_cal.l.md",
+    "3. Notes/12_calculator/12.2.1_cal.y.md",
+    "3. Notes/11_valid_identifier/11.1_algorithm.md",
+    "3. Notes/11_valid_identifier/11_valid_identifier.md",
+    "3. Notes/11_valid_identifier/11.2.2_identifier.l.md",
+    "3. Notes/11_valid_identifier/11.2.1_identifier.y.md",
+    "3. Notes/10_arithmetic/10.1_algorithm.md",
+    "3. Notes/10_arithmetic/10.2.2_exp.l.md",
+    "3. Notes/10_arithmetic/10.2.1_exp.y.md",
+    "3. Notes/13_epsilon",
+    "5. resources/Pasted image 20241104221836.png",
+    "5. resources/Pasted image 20241104221601.png",
+    "5. resources/Pasted image 20241104221523.png",
+    "5. resources/Pasted image 20241104211835.png",
+    "3. Notes/12_calculator",
+    "5. resources/Pasted image 20241104212416.png",
+    "5. resources/Pasted image 20241104210339.png",
+    "3. Notes/11_valid_identifier",
+    "5. resources/Pasted image 20241104211341.png",
+    "5. resources/Pasted image 20241104203000.png",
+    "3. Notes/10_arithmetic",
+    "5. resources/Pasted image 20241104205148.png",
+    "5. resources/Pasted image 20241104195040.png",
+    "3. Notes/9_vowels",
     "3. Notes/3 shift reduce parser",
     "3. Notes/2 recursive descent parser",
     "3. Notes/common code",
     "3. Notes/1_lex_using_c",
-    "3. Notes/8_substring",
-    "3. Notes/7_Lines_words,character count"
+    "3. Notes/8_substring"
   ]
 }
