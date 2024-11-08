@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/7_Lines_words,character count/7.1_algorithm.md",
-                "mode": "source",
+                "file": "3. Notes/12_calculator/12.2.2_cal.l.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Notes/6_lexical analyzer using lex tool/6.3_testing_program.md",
+                "file": "3. Notes/6_lexical analyzer using lex tool/6.2_code.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Notes/7_Lines_words,character count/7.1_algorithm.md",
+                "file": "3. Notes/12_calculator/12.2.2_cal.l.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Notes/7_Lines_words,character count/7.1_algorithm.md",
+                "file": "3. Notes/12_calculator/12.2.2_cal.l.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,12 +174,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Notes/7_Lines_words,character count/7.1_algorithm.md"
+                "file": "3. Notes/12_calculator/12.2.2_cal.l.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,32 +197,32 @@
   },
   "active": "0a64af89b27698cf",
   "lastOpenFiles": [
-    "3. Notes/2 recursive descent parser/2_index.md",
-    "3. Notes/10_arithmetic/10_arithmeticexpr.md",
-    "3. Notes/7_Lines_words,character count/7.1_algorithm.md",
-    "3. Notes/7_Lines_words,character count/7.2.1_count.l.md",
-    "3. Notes/6_lexical analyzer using lex tool/6.1_algorithm.md",
-    "3. Notes/6_lexical analyzer using lex tool/6.2.1_lexical.l.md",
-    "3. Notes/3 shift reduce parser/3.2_code.md",
-    "3. Notes/3 shift reduce parser/3_index.md",
-    "3. Notes/2 recursive descent parser/2.1_algorithm.md",
-    "3. Notes/2 recursive descent parser/2.2_code.md",
-    "3. Notes/1_lex_using_c/1.1_algorithm.md",
-    "3. Notes/1_lex_using_c/1.2_code.md",
-    "3. Notes/13_epsilon/13.1_algorithm.md",
-    "3. Notes/13_epsilon/13_epsilon_closure.md",
-    "3. Notes/13_epsilon/13.2_code.md",
-    "3. Notes/12_calculator/12.1_algorithm.md",
-    "3. Notes/12_calculator/12_calculator.md",
+    "3. Notes/12_calculator/12.3_testing_code.md",
     "3. Notes/12_calculator/12.2.2_cal.l.md",
     "3. Notes/12_calculator/12.2.1_cal.y.md",
-    "3. Notes/11_valid_identifier/11.1_algorithm.md",
-    "3. Notes/11_valid_identifier/11_valid_identifier.md",
+    "3. Notes/2 recursive descent parser/2.4_testing_program.md",
+    "3. Notes/2 recursive descent parser/2.2_code.md",
+    "3. Notes/3 shift reduce parser/3.2_code.md",
+    "3. Notes/1_lex_using_c/1.2_code.md",
+    "3. Notes/12_calculator/12.2_code.md",
     "3. Notes/11_valid_identifier/11.2.2_identifier.l.md",
+    "3. Notes/11_valid_identifier/11.3_testing_code.md",
     "3. Notes/11_valid_identifier/11.2.1_identifier.y.md",
-    "3. Notes/10_arithmetic/10.1_algorithm.md",
+    "3. Notes/10_arithmetic/10.3_testing_code.md",
     "3. Notes/10_arithmetic/10.2.2_exp.l.md",
     "3. Notes/10_arithmetic/10.2.1_exp.y.md",
+    "3. Notes/11_valid_identifier/11.1_algorithm.md",
+    "3. Notes/11_valid_identifier/11.2_code.md",
+    "3. Notes/10_arithmetic/10.1_algorithm.md",
+    "3. Notes/10_arithmetic/10.2_code.md",
+    "3. Notes/9_vowels/9.2_code.md",
+    "3. Notes/9_vowels/9.1_algorithm.md",
+    "3. Notes/8_substring/8.1_algorithm.md",
+    "3. Notes/8_substring/8.2_code.md",
+    "3. Notes/7_Lines_words,character count/7.2_code.md",
+    "3. Notes/6_lexical analyzer using lex tool/6.3_testing_program.md",
+    "3. Notes/6_lexical analyzer using lex tool/6.2_code.md",
+    "3. Notes/6_lexical analyzer using lex tool/6.1_algorithm.md",
     "3. Notes/13_epsilon",
     "5. resources/Pasted image 20241104221836.png",
     "5. resources/Pasted image 20241104221601.png",
