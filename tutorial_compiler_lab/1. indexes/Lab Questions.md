@@ -1,3 +1,4 @@
+Note: refer [[Points to remember]]
 
 ![[Pasted image 20241011211416.png]]
 - [[1_index]]
