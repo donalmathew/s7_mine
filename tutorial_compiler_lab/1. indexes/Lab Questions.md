@@ -4,6 +4,9 @@ Note: refer [[Points to remember]]
 - [[1_index]]
 - [[2_index]]
 - [[3_index]]
+- [[4_index]]
+- [[5_index]]
+
 
 ![[Pasted image 20241011211534.png]]
 - [[6_index]]

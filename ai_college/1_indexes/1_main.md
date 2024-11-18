@@ -1,11 +1,13 @@
 
 Learn:
+- [[mod1]]
 - [[mod3]]
 - [[mod4]]
 - 
 
 
 - links:
+	- [chatgpt-for ai](https://chatgpt.com/c/67382bde-2a84-8011-baeb-264d4ac55caf)
 	- [xmind files](https://drive.google.com/drive/folders/1Limv0bkGqYcUncnPe2nyCyjTmcUpGdSG?usp=drive_link)
 	- [College notes](https://drive.google.com/drive/folders/1EcLTunpAFWthMmdhE1LupL3RULF5xlYF?usp=drive_link)
 	- [All notes](https://drive.google.com/drive/u/1/folders/131qyk1APFre-IOR3hxiXCE5fzajtBxGt):
@@ -34,4 +36,90 @@ Learn:
 			- [Jeena maam: 4.1](https://drive.google.com/file/d/1i8I7xecQuvi5E-O39bNkBgZgoFQvrseR/view?usp=drive_link)
 			- [Jeena maam: 4.2](https://drive.google.com/file/d/1R6cHalEwFLVSMYCtYWtUreshCMcRv0li/view?usp=drive_link)
 
+
+
+Syllabus:
+```markdown
+# Artificial Intelligence
+## Module 1: Introduction
+- What is AI?
+- Foundations of AI
+- History of AI
+- Applications of AI
+- Intelligent Agents
+  - Agents and Environments
+  - Rationality
+  - Nature of Environments
+  - Structure of Agents
+
+## Module 2: Problem Solving
+- Problem-Solving Agents
+- Example Problems
+- Searching for Solutions
+- Uninformed Search Strategies
+- Informed Search Strategies
+- Heuristic Functions
+
+## Module 3: Search in Complex Environments
+- Adversarial Search
+  - Games
+  - Minimax Algorithm
+  - Alpha-Beta Pruning
+- Constraint Satisfaction Problems (CSP)
+  - Defining CSP
+  - Constraint Propagation
+  - Backtracking Search
+  - Structure of CSP Problems
+
+## Module 4: Knowledge Representation and Reasoning
+- Logical Agents
+  - Knowledge-Based Agents
+  - Propositional Logic
+    - Propositional Theorem Proving
+    - Agents Based on Propositional Logic
+  - First-Order Predicate Logic (FOL)
+    - Syntax and Semantics
+    - Knowledge Representation
+    - Inference in FOL
+      - Unification
+      - Forward Chaining
+      - Backward Chaining
+      - Resolution
+
+## Module 5: Machine Learning
+- Learning from Examples
+  - Forms of Learning
+  - Supervised Learning
+- Learning Decision Trees
+- Evaluating and Choosing the Best Hypothesis
+- Regression and Classification with Linear Models
+```
+
+```
+Module – 1 (Introduction)
+Introduction – What is Artificial Intelligence(AI) ? The Foundations of AI, History of AI,
+Applications of AI. Intelligent Agents – Agents and Environments, Good behavior: The concept
+of rationality, nature of Environments, Structure of Agents.
+
+Module – 2 (Problem Solving)
+Solving Problems by searching-Problem solving Agents, Example problems, Searching for
+solutions, Uninformed search strategies, Informed search strategies, Heuristic functions.
+
+Module - 3 (Search in Complex environments)
+Adversarial search - Games, Optimal decisions in games, The Minimax algorithm, Alpha-Beta
+pruning. Constraint Satisfaction Problems – Defining CSP, Constraint Propagation- inference in
+CSPs, Backtracking search for CSPs, Structure of CSP problems.
+
+Module - 4 (Knowledge Representation and Reasoning)
+Logical Agents – Knowledge based agents, Logic, Propositional Logic, Propositional Theorem
+proving, Agents based on Propositional Logic. First Order Predicate Logic – Syntax and
+Semantics of First Order Logic, Using First Order Logic, Knowledge representation in First
+Order Logic. Inference in First Order Logic – Propositional Vs First Order inference, Unification
+and Lifting, Forward chaining, Backward chaining, Resolution.
+
+Module - 5 (Machine Learning)
+Learning from Examples – Forms of Learning, Supervised Learning, Learning Decision Trees,
+Evaluating and choosing the best hypothesis, Regression and classification with Linear
+models.
+```
 
