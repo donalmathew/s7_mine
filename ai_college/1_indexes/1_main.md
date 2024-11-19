@@ -21,8 +21,10 @@ Learn:
 			- [eduline](https://drive.google.com/file/d/1DMTzA2it27DDspkyXZ_RCjhfuTopHP3g/view?usp=drive_link)
 			- [kerala notes](https://drive.google.com/file/d/18flqHp2O16iuvXq9-8rb5L8s2RIu7aiI/view?usp=drive_link)
 			- [ktu notes](https://drive.google.com/file/d/1TP39yPskrHMyvB8KnfsmY5wagJb6QzFw/view?usp=drive_link)
-			- 
 		- mod2
+			- [eduline](https://drive.google.com/file/d/1TJqrht1Zn48DXnMeQ0RLL0qeOb0jHjvE/view?usp=drive_link)
+			- [kerala notes](https://drive.google.com/file/d/18AxnbPtMJ3VyOY4-7IkqleH9PucyG4cz/view?usp=drive_link)
+			- [ktu notes](https://drive.google.com/file/d/12jD8rLMf7ugfmHJC-2fECjPJWXVqaBci/view?usp=drive_link)
 		- mod3
 			- [eduline](https://drive.google.com/file/d/15ijW3jB3EwXmrKygLiO3SkfbBP1Gs_70/view?usp=drive_link)
 			- [kerala notes](https://drive.google.com/file/d/11kwijrYVTq750Er-jYB0hDsJDz5Guewt/view?usp=drive_link)
