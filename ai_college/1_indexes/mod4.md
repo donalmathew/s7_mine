@@ -2,6 +2,7 @@
 	![[Pasted image 20241020174344.png]]
 
 pyq:
+- [[mod4 raw]]
 - [[2022_dec_mod4]]
 - [[2023_may_mod4]]
 - [[2023_dec_mod4]]

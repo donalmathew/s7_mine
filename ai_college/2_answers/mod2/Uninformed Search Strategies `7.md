@@ -16,14 +16,17 @@ Note: ONly tree type figures are learnt from notes, but qns can be asked from gr
 	[[uniform cost search]]
 
 ![[Pasted image 20241119110807.png]]
+	[[depth limited]]
 
 ![[Pasted image 20241119110829.png]]
+	[[iterative deepening depth first]]
 
 
+General notes:
 [[what is uninformed search]]	
 	[[breadth first search]]
 	[[uniform cost search]]
 	[[depth first search]]
 	[[depth limited]]
-	
+	[[iterative deepening depth first]]
 	

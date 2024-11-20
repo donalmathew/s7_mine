@@ -1,9 +1,10 @@
 
 Learn:
 - [[mod1]]
+- [[mod2]]
 - [[mod3]]
 - [[mod4]]
-- 
+- [[mod5]]
 
 
 - links:
@@ -37,6 +38,11 @@ Learn:
 			- [ktu notes](https://drive.google.com/file/d/1mTFwvWqAgS1RYicvjA4BXJD-xxr9dZyT/view?usp=drive_link)
 			- [Jeena maam: 4.1](https://drive.google.com/file/d/1i8I7xecQuvi5E-O39bNkBgZgoFQvrseR/view?usp=drive_link)
 			- [Jeena maam: 4.2](https://drive.google.com/file/d/1R6cHalEwFLVSMYCtYWtUreshCMcRv0li/view?usp=drive_link)
+		- mod5
+			- [eduline](https://drive.google.com/file/d/1iLLHhTbVPmiD5O7biejslFyBrApKmuNp/view?usp=drive_link)
+			- [kerala notes](https://drive.google.com/file/d/1eK6osR7lFJXPyhmaQ2pKw421vZTV2mag/view?usp=drive_link)
+			- [ktu notes](https://drive.google.com/file/d/1gdHY6IoXjKZaBogob_QdlhSWrD5sfPz1/view?usp=drive_link)
+			- 
 
 
 

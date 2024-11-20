@@ -8,8 +8,8 @@ pyq:
 
 Answers:
 - [[Problem-Solving Agents]]
-- [[Example Problems]]
-- [[Searching for Solutions]]
-- [[Uninformed Search Strategies]]
-- [[Informed Search Strategies]]
-- Heuristic Functions
+- [[Example Problems `2]]
+- [[Searching for Solutions `2]]
+- [[Uninformed Search Strategies `7]]
+- [[Informed Search Strategies `6]]
+- [[Heuristic Functions `4]]

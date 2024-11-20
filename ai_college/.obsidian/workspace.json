@@ -6,7 +6,6 @@
       {
         "id": "e1d0ebacf8891ee1",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "953365493727cfd6",
@@ -36,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_answers/mod2/Uninformed Search Strategies.md",
-                "mode": "source",
+                "file": "1_indexes/mod4.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,33 +47,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_answers/mod4/Knowledge representation in FOL.md",
+                "file": "1_indexes/mod4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "678a5bcdc444c715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_indexes/1_main.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccfed67acdbad728",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_indexes/mod4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "1f8278a6d71882ca",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "ca11c9865df2a48b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_questions/mod2/mod2_raw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -140,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_answers/mod2/Uninformed Search Strategies.md",
+                "file": "1_indexes/mod4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_answers/mod2/Uninformed Search Strategies.md",
+                "file": "1_indexes/mod4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_answers/mod2/Uninformed Search Strategies.md"
+                "file": "1_indexes/mod4.md"
               }
             }
           }
@@ -201,52 +205,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ffb7444fc53f8f9",
+  "active": "ccfed67acdbad728",
   "lastOpenFiles": [
-    "depth first search.md",
-    "Pasted image 20241119153318.png",
-    "Pasted image 20241119153305.png",
-    "Pasted image 20241119153245.png",
-    "Pasted image 20241119153223.png",
-    "Pasted image 20241119153215.png",
-    "Pasted image 20241119153200.png",
-    "2_answers/mod2/Uninformed Search Strategies.md",
-    "uniform cost search.md",
-    "Pasted image 20241119152042.png",
-    "2_answers/mod2/breadth first search.md",
-    "Pasted image 20241119151954.png",
-    "Pasted image 20241119151912.png",
-    "Pasted image 20241119151823.png",
-    "3_questions/mod2/mod2_raw.md",
-    "what is uninformed search.md",
-    "1_indexes/mod2.md",
-    "4_links/General.md",
-    "2_answers/mod2/5 components of well defined problem.md",
-    "2_answers/mod2/vacuum world.md",
-    "2_answers/mod2/Problem-Solving Agents.md",
-    "2_answers/mod2/Example Problems.md",
-    "2_answers/mod2/Searching for Solutions.md",
-    "2_answers/mod2/problem solving performance.md",
-    "2_answers/mod2/problem as a state-space-search.md",
-    "2_answers/mod2/real world problem.md",
-    "2_answers/mod2/toy problem.md",
-    "2_answers/mod2/8 puzzle.md",
-    "2_answers/mod2/8 queens problem.md",
-    "2_answers/mod2/steps in problem sovling in ai.md",
-    "3_questions/mod2",
+    "2_answers/mod5/pruning.md",
+    "5_resources/set5/Pasted image 20241120154051.png",
+    "5_resources/set6/Pasted image 20241120142752.png",
+    "5_resources/set2/Pasted image 20241120130803.png",
+    "5_resources/set4/Pasted image 20241120130435.png",
+    "2_answers/mod5/advantages.md",
+    "3_questions/mod5/mod5 raw.md",
     "1_indexes/1_main.md",
-    "1_indexes/mod1.md",
-    "3_questions/mod1/mod1_raw.md",
-    "1_indexes/mod3.md",
     "1_indexes/mod4.md",
+    "1_indexes/mod5.md",
+    "2_answers/mod5/Regression and Classification with Linear Models `5.md",
+    "5_resources/set5/Pasted image 20241120154415.png",
+    "5_resources/set5/Pasted image 20241120154408.png",
+    "5_resources/set5/Pasted image 20241120154400.png",
+    "5_resources/set5/Pasted image 20241120154352.png",
+    "5_resources/set5/Pasted image 20241120154345.png",
+    "5_resources/set5/Pasted image 20241120154338.png",
+    "2_answers/mod5/Evaluating and Choosing the Best Hypothesis 2.md",
+    "1_indexes/mod1.md",
+    "1_indexes/mod3.md",
+    "2_answers/mod3/Backtracking search for CSPs `2.md",
+    "2_answers/mod3/Constraint propagation `5.md",
+    "2_answers/mod3/Defining CSP `3.md",
+    "2_answers/mod3/Constraint Satisfaction problems `3.md",
+    "2_answers/mod3/alpha-beta pruning `4.md",
+    "2_answers/mod3/Adversarial Search.md",
+    "2_answers/mod3/games `1.md",
+    "2_answers/mod3/the minimax algorithm `4.md",
+    "1_indexes/mod2.md",
+    "2_answers/mod2/Heuristic Functions `4.md",
+    "2_answers/mod2/Informed Search Strategies `6.md",
+    "2_answers/mod2/Uninformed Search Strategies `7.md",
+    "2_answers/mod2/Searching for Solutions `2.md",
+    "2_answers/mod2/Example Problems `2.md",
+    "2_answers/mod2/Problem-Solving Agents.md",
+    "2_answers/mod1/Structure of Agents `6.md",
+    "2_answers/mod5",
+    "3_questions/mod5",
+    "3_questions/mod2",
     "5_resources/set6",
     "5_resources/set5",
     "5_resources/set4",
     "5_resources/set3",
     "5_resources/set2",
     "6 other",
-    "3_questions/mod1",
-    "2_answers/mod2",
-    "2_answers/mod1"
+    "3_questions/mod1"
   ]
 }

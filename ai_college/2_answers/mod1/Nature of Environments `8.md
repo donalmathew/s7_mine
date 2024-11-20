@@ -8,7 +8,6 @@
 ![[Pasted image 20241118233850.png]]
 ![[Pasted image 20241118233815.png]]
 ![[Pasted image 20241118233834.png]]
-
 	[[properties of task environments]]
 	[[eg- task env]]
 

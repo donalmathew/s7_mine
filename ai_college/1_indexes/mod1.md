@@ -7,12 +7,12 @@ pyq:
 
 
 Answers:
-- [[What is AI?]]
+- [[What is AI? `5]]
 - [[Foundations of AI]]
-- [[History of AI]]
-- [[Applications of AI]]
+- [[History of AI `1]]
+- [[Applications of AI -2]]
 - Intelligent Agents
-  - [[Agents and Environments]]
-  - [[Rationality]]
-  - [[Nature of Environments]]
-  - [[Structure of Agents]]
+  - [[Agents and Environments `1]]
+  - [[Rationality `1]]
+  - [[Nature of Environments `8]]
+  - [[Structure of Agents `6]]

@@ -1,9 +1,16 @@
+![[Pasted image 20241119191517.png]]
+![[Pasted image 20241021203224.png]]
+![[Pasted image 20241021203148.png]]
+![[Pasted image 20241021203420.png]]
+
 
 #### ALgorithm: ![[Pasted image 20241021210436.png]]
 ![[Pasted image 20241021210503.png]]
 ![[Pasted image 20241021210529.png]]
 
-
+Pseudocode:
+![[Pasted image 20241120121227.png]]
+![[Pasted image 20241120121239.png]]
 #### What is minimax?
 - Assumption:
 	- Opponent also plays optimally.
