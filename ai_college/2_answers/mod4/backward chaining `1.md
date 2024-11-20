@@ -1,3 +1,5 @@
+![[Pasted image 20241119191943.png]]
+
 - Starts with a goal
 - Works backwards to find facts that would prove it
 - Common in Prolog programming

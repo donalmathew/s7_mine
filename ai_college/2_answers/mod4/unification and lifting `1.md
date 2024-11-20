@@ -1,3 +1,6 @@
+![[Pasted image 20241021104750.png]]
+
+
 Unification is finding substitutions that make different logical expressions identical.
 
 Example:

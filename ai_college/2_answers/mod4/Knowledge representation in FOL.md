@@ -16,3 +16,15 @@ ParentOf(Mary, John)          // Mary is parent of John
 ∀x(Student(x) ∧ StudiesHard(x) → WillPass(x))
 // All students who study hard will pass
 ```
+
+
+![[Pasted image 20241120230221.png]]
+![[Pasted image 20241120230236.png]]
+
+![[Pasted image 20241120230259.png]]
+
+
+
+![[Pasted image 20241120230408.png]]
+![[Pasted image 20241120230431.png]]
+![[Pasted image 20241120230345.png]]

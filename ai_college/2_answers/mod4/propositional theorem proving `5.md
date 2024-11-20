@@ -1,3 +1,18 @@
+![[Pasted image 20241119191836.png]]
+	![[Pasted image 20241120223326.png]]
+
+![[Pasted image 20241020174143.png]]
+	![[Pasted image 20241120223657.png]]
+
+![[Pasted image 20241119191926.png]]
+	![[Pasted image 20241120223711.png]]
+	
+
+![[Pasted image 20241119191900.png]]
+
+yt video:https://www.youtube.com/watch?v=5NlybJnDBkU&list=PLnzz0gSUYIN3mo-LB-l2Vfadz6HiPi8Po&index=32
+
+
 This involves determining whether a statement is true based on a set of known facts using rules of inference:
 
 Common rules:
@@ -15,6 +30,14 @@ Common rules:
    If P → Q is true, and Q is false, then P must be false
    ```
 
+Core concepts:
+- Syntax: Rules for constructing valid statements
+- Semantics: Meaning of statements
+- Models: Possible worlds where statements are true
+- Entailment (⊨): If A⊨B, then B is true in all worlds where A is true
+- Inference (⊢): Deriving new statements from existing ones
+ 
+
 Methods:
 1. Truth Tables
 2. Inference Rules:
@@ -24,3 +47,5 @@ Methods:
    - AND-Introduction: P, Q ⊢ (P∧Q)
    - OR-Introduction: P ⊢ (P∨Q)
    - Resolution: (P∨Q, ¬Q∨R) ⊢ (P∨R)
+
+

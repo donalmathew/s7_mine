@@ -1,3 +1,8 @@
+
+![[Pasted image 20241119191823.png]]
+![[Pasted image 20241119191919.png]]
+
+
 Key components:
 
 1. Constants: Specific objects (e.g., John, Mary)

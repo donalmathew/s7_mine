@@ -1,3 +1,5 @@
+![[Pasted image 20241119191844.png]]
+
 - Starts with known facts
 - Applies rules to derive new facts
 - Continues until goal is reached or no new facts can be derived
@@ -19,3 +21,13 @@ Algorithm:
 2. Apply rules to derive new facts
 3. Add new facts to KB
 4. Repeat until no new facts can be derived
+
+
+Answer to the question: 
+![[Pasted image 20241120231511.png]]
+![[Pasted image 20241120231523.png]]
+
+![[Pasted image 20241120231628.png]]
+![[Pasted image 20241120231643.png]]
+![[Pasted image 20241120231652.png]]
+![[Pasted image 20241120231659.png]]

@@ -1,3 +1,8 @@
+
+![[Pasted image 20241120215510.png]]
+![[Pasted image 20241120215522.png]]
+![[Pasted image 20241120215535.png]]
+
 Core concepts:
 - Syntax: Rules for constructing valid statements
 - Semantics: Meaning of statements

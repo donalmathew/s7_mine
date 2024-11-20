@@ -1,4 +1,12 @@
+![[Pasted image 20241119191816.png]]
+
 These are AI agents that use knowledge representation and reasoning to make decisions. Think of them as agents that try to understand and act upon the world using a knowledge base (like a database of facts and rules).
+
+![[Pasted image 20241120215145.png]]
+![[Pasted image 20241120215221.png]]
+![[Pasted image 20241120215230.png]]
+![[Pasted image 20241120215239.png]]
+
 
 Key points about knowledge-based agents:
 - They maintain an internal knowledge base (KB) of what they know
@@ -27,6 +35,8 @@ Structure of a knowledge-based agent:
   4. ASK: Queries the KB
   5. Learning Component: Updates knowledge
 
+
+
 Example:
 ```python
 class KnowledgeBasedAgent:
@@ -39,3 +49,6 @@ class KnowledgeBasedAgent:
     def ASK(self, query):
         return self.infer(query, self.KB)
 ```
+
+![[Pasted image 20241120200933.png]]
+![[Pasted image 20241120200944.png]]

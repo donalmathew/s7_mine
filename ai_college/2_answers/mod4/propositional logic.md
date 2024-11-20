@@ -1,4 +1,21 @@
+![[Pasted image 20241119191756.png]]
+![[Pasted image 20241119191907.png]]
+
+
 Propositional logic is the simplest form of logic, dealing with statements that are either true or false.
+![[Pasted image 20241120215621.png]]
+![[Pasted image 20241120215637.png]]
+![[Pasted image 20241120215646.png]]
+![[Pasted image 20241120215656.png]]
+![[Pasted image 20241120215708.png]]
+
+
+
+
+
+**additional(optional):**
+
+![[Pasted image 20241120214704.png]]
 
 Basic components:
 - Atomic propositions: Simple statements (P, Q, R...)
