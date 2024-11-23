@@ -72,7 +72,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/mod4.md",
+                "file": "1_indexes/mod1.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_indexes/mod4.md",
+                "file": "1_indexes/mod1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_indexes/mod4.md",
+                "file": "1_indexes/mod1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_indexes/mod4.md"
+                "file": "1_indexes/mod1.md"
               }
             }
           }
@@ -208,6 +208,13 @@
   },
   "active": "ccfed67acdbad728",
   "lastOpenFiles": [
+    "2_answers/mod1/What is AI? `5.md",
+    "1_indexes/mod1.md",
+    "1_indexes/mod5.md",
+    "1_indexes/mod4.md",
+    "1_indexes/mod3.md",
+    "1_indexes/mod2.md",
+    "1_indexes/1_main.md",
     "5_resources/set6/Pasted image 20241120231147.png",
     "2_answers/mod4/forward chaining `1.md",
     "5_resources/set6/Pasted image 20241120231659.png",
@@ -216,7 +223,6 @@
     "5_resources/set6/Pasted image 20241120231628.png",
     "5_resources/set6/Pasted image 20241120231523.png",
     "5_resources/set6/Pasted image 20241120231511.png",
-    "1_indexes/mod4.md",
     "2_answers/mod4/backward chaining `1.md",
     "2_answers/mod4/unification and lifting `1.md",
     "2_answers/mod4/FOL to CNF `3.md",
@@ -235,14 +241,9 @@
     "2_answers/mod4/Knowledge based agents.md",
     "2_answers/mod4/propositional logic.md",
     "2_answers/mod4/wumpus world.md",
-    "1_indexes/1_main.md",
     "2_answers/mod5/pruning.md",
     "2_answers/mod5/advantages.md",
     "3_questions/mod5/mod5 raw.md",
-    "1_indexes/mod5.md",
-    "2_answers/mod5/Regression and Classification with Linear Models `5.md",
-    "2_answers/mod5/Evaluating and Choosing the Best Hypothesis 2.md",
-    "1_indexes/mod1.md",
     "2_answers/mod5",
     "3_questions/mod5",
     "3_questions/mod2",
