@@ -6,7 +6,7 @@
       {
         "id": "5a570a42bf47a3bb",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 53.59531772575251,
         "children": [
           {
             "id": "81d7ee4a9f8947d1",
@@ -38,7 +38,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "form processing and business logic `2.md",
+                "file": "2_answers/mod3/php examples `2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28e398c952b23fcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_indexes/mod5.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,20 +117,20 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
-        "id": "c8a8328b60f77314",
+        "id": "a2d26e3e2242d308",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 46.40468227424749,
         "children": [
           {
-            "id": "6d0dd246d3ce4796",
+            "id": "8108712f7efb9386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mod3_raw.md",
+                "file": "3_questions/mod4/mod4 raw.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "form processing and business logic `2.md",
+                "file": "1_indexes/mod5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "form processing and business logic `2.md",
+                "file": "1_indexes/mod5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "form processing and business logic `2.md"
+                "file": "1_indexes/mod5.md"
               }
             }
           }
@@ -251,43 +263,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34a1dd94ebee4548",
+  "active": "e4e0757c88b7a4f9",
   "lastOpenFiles": [
-    "palindrome php.md",
-    "Pasted image 20241124153026.png",
-    "form processing and business logic `2.md",
+    "1_indexes/1_main.md",
+    "1_indexes/mod5.md",
+    "1_indexes/mod4.md",
+    "1_indexes/rejimol maam.md",
+    "2_answers/mod4/syllabus_mod4.md",
+    "2_answers/mod3/syllabus_mod3.md",
     "1_indexes/mod3.md",
-    "php examples `2.md",
-    "mod3_raw.md",
-    "2_answers/mod3/converting between data types.md",
-    "2_answers/mod3/operators and expressions.md",
-    "2_answers/mod3/flow control functions `2.md",
-    "2_answers/mod3/control statements.md",
-    "2_answers/mod3/working with functions `3.md",
-    "Pasted image 20241124152843.png",
-    "Pasted image 20241124152831.png",
-    "Pasted image 20241124152748.png",
-    "2_answers/mod3/initialising and manipulating arrays `7.md",
-    "php objects.md",
-    "string comparisons `2.md",
-    "string processing with regular expression.md",
-    "preg_match for pattern matching.md",
-    "Pasted image 20241124152338.png",
-    "Pasted image 20241124152332.png",
-    "Pasted image 20241124152326.png",
-    "Pasted image 20241124152320.png",
-    "Pasted image 20241124152314.png",
-    "Pasted image 20241124152306.png",
-    "comparing strings using strcmp or relational operators.md",
-    "2_answers/mod2/objects.md",
-    "variable scope.md",
-    "2_answers/mod2/function-syntax.md",
-    "2_answers/mod2/Control Statements, Functions, Arrays, Objects `5.md",
     "1_indexes/mod2.md",
-    "implode vs explode.md",
-    "2_answers/mod3/Introduction.md",
-    "array functions.md",
-    "array creation.md",
+    "1_indexes/mod1.md",
+    "5_resources/set1/Pasted image 20241124235138.png",
+    "5_resources/set2/Pasted image 20241124234930.png",
+    "5_resources/set2/Pasted image 20241124233318.png",
+    "2_answers/mod4/dynamic content.md",
+    "5_resources/set2/Pasted image 20241124234954.png",
+    "5_resources/set2/Pasted image 20241124234949.png",
+    "5_resources/set2/Pasted image 20241124234941.png",
+    "5_resources/set2/Pasted image 20241124234935.png",
+    "5_resources/set2/Pasted image 20241124234924.png",
+    "5_resources/set2/Pasted image 20241124234919.png",
+    "5_resources/set2/Pasted image 20241124234912.png",
+    "2_answers/mod4/require and include `1.md",
+    "3_questions/mod4/mod4 raw.md",
+    "2_answers/mod4/Form processing and business logic `5.md",
+    "2_answers/mod4/performing create,delete,insert,select and update operations on mysql table `5.md",
+    "2_answers/mod4/connecting to mysql with php `2.md",
+    "2_answers/mod4/check cookie status using isset().md",
+    "2_answers/mod4/sessions and mysql integration `2.md",
+    "2_answers/mod4/cookies `5.md",
+    "2_answers/mod4/deleting session.md",
+    "2_answers/mod4/storing, accessing, modifying.md",
+    "2_answers/mod4/start session.md",
+    "2_answers/mod4/what is session.md",
+    "2_answers/mod4/deleting cookies.md",
+    "2_answers/mod4/create cookie.md",
+    "2_answers/mod4/cookie support in php.md",
+    "2_answers/mod4/uses of cookies.md",
     "2_answers/mod2/height",
     "3_questions/mod2",
     "2_answers/mod2",
