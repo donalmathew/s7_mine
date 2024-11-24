@@ -6,7 +6,7 @@
       {
         "id": "5a570a42bf47a3bb",
         "type": "tabs",
-        "dimension": 51.73267326732673,
+        "dimension": 50,
         "children": [
           {
             "id": "81d7ee4a9f8947d1",
@@ -27,6 +27,18 @@
               "type": "markdown",
               "state": {
                 "file": "2_answers/mod2/positioning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34a1dd94ebee4548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "form processing and business logic `2.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,27 +98,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_answers/mod3/working with functions.md",
+                "file": "2_answers/mod3/working with functions `3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "921bb607bc85535c",
+        "id": "c8a8328b60f77314",
         "type": "tabs",
-        "dimension": 48.26732673267327,
+        "dimension": 50,
         "children": [
           {
-            "id": "fd8378b84e4f306f",
+            "id": "6d0dd246d3ce4796",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/mod2.md",
+                "file": "mod3_raw.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_answers/mod2/positioning.md",
+                "file": "form processing and business logic `2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_answers/mod2/positioning.md",
+                "file": "form processing and business logic `2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2_answers/mod2/positioning.md"
+                "file": "form processing and business logic `2.md"
               }
             }
           }
@@ -239,45 +251,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4e0757c88b7a4f9",
+  "active": "34a1dd94ebee4548",
   "lastOpenFiles": [
-    "5_resources/set2/Pasted image 20241123201219.png",
-    "5_resources/set1/Pasted image 20241123200441.png",
-    "5_resources/set1/Pasted image 20241123194523.png",
-    "5_resources/set2/Pasted image 20241123193705.png",
-    "5_resources/set2/Pasted image 20241123122927.png",
-    "5_resources/set2/Pasted image 20241123122957.png",
-    "2_answers/mod2/align image.md",
-    "2_answers/mod2/bg.md",
-    "2_answers/mod2/height/width.md",
-    "5_resources/set2/Pasted image 20241123122941.png",
-    "1_indexes/mod2.md",
-    "2_answers/mod2/Basics- Scripting, Arithmetic, Decision Making `1.md",
-    "2_answers/mod2/Syntax and Structure- Inline, Embedded, External `6.md",
-    "2_answers/mod2/Control Statements, Functions, Arrays, Objects `5.md",
-    "2_answers/mod2/displaying xml document `1.md",
-    "5_resources/set2/Pasted image 20241123202429.png",
-    "5_resources/set2/Pasted image 20241123202413.png",
-    "5_resources/set2/Pasted image 20241123202357.png",
-    "5_resources/set2/Pasted image 20241123202336.png",
-    "2_answers/mod2/Responsive CSS- Media Queries `1.md",
-    "2_answers/mod2/Selectors, Properties, Positioning `6.md",
-    "2_answers/mod2/positioning.md",
-    "2_answers/mod2/image positioning.md",
-    "2_answers/mod2/image size.md",
-    "2_answers/mod2/css properties.md",
-    "2_answers/mod2/pseudo classes.md",
-    "2_answers/mod2/selectors.md",
+    "palindrome php.md",
+    "Pasted image 20241124153026.png",
+    "form processing and business logic `2.md",
     "1_indexes/mod3.md",
-    "1_indexes/1_main.md",
-    "2_answers/mod2/general.md",
-    "2_answers/mod2/css lists.md",
-    "2_answers/mod2/css links.md",
+    "php examples `2.md",
+    "mod3_raw.md",
+    "2_answers/mod3/converting between data types.md",
+    "2_answers/mod3/operators and expressions.md",
+    "2_answers/mod3/flow control functions `2.md",
+    "2_answers/mod3/control statements.md",
+    "2_answers/mod3/working with functions `3.md",
+    "Pasted image 20241124152843.png",
+    "Pasted image 20241124152831.png",
+    "Pasted image 20241124152748.png",
+    "2_answers/mod3/initialising and manipulating arrays `7.md",
+    "php objects.md",
+    "string comparisons `2.md",
+    "string processing with regular expression.md",
+    "preg_match for pattern matching.md",
+    "Pasted image 20241124152338.png",
+    "Pasted image 20241124152332.png",
+    "Pasted image 20241124152326.png",
+    "Pasted image 20241124152320.png",
+    "Pasted image 20241124152314.png",
+    "Pasted image 20241124152306.png",
+    "comparing strings using strcmp or relational operators.md",
+    "2_answers/mod2/objects.md",
+    "variable scope.md",
+    "2_answers/mod2/function-syntax.md",
+    "2_answers/mod2/Control Statements, Functions, Arrays, Objects `5.md",
+    "1_indexes/mod2.md",
+    "implode vs explode.md",
+    "2_answers/mod3/Introduction.md",
+    "array functions.md",
+    "array creation.md",
     "2_answers/mod2/height",
-    "2_answers/mod2/padding.md",
-    "2_answers/mod2/margin.md",
-    "2_answers/mod2/borders.md",
-    "2_answers/mod2/syntax.md",
     "3_questions/mod2",
     "2_answers/mod2",
     "5_resources/set3",
