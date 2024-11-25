@@ -4,26 +4,29 @@ syllabus:
 ![[Pasted image 20241124235138.png]]
 
 pyq:
-
+[[mod5 raw]]
 answers:
 #### **JSON Data Interchange Format**
 
-- Syntax
-- Data Types
+- [[json Syntax `2]]
+- [[json vs xml `1]]
+- [[Data Types `3]]
 - Object
-- JSON Schema
+- [[JSON Schema `3]]
 - Manipulating JSON data with PHP
 
 #### **Web Development Frameworks**
 
-- Laravel Overview
+- [[Laravel Overview]]
 - Features of Laravel
 - Setting up a Laravel Development Environment
 - Application Structure of Laravel
-- Routing
+- [[Routing `1]]
+- [[blade `1]]
 - Middleware
-- Controllers
-- Route Model Binding
+- [[Controllers `4]]
+- [[Route Model Binding `3]]
+- [[mvc framework `2]]
 - Views
 - Redirections
 - Request and Responses
