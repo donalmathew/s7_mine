@@ -23,11 +23,9 @@
             "id": "919e17593fae5fba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "1_indexes/mod5.md",
-                "mode": "source",
-                "source": false
+                "file": "5_resources/set1/Pasted image 20241128164136.png"
               }
             }
           },
@@ -80,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mod5 raw.md",
+                "file": "3_questions/mod5 raw.md",
                 "mode": "source",
                 "source": false
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_indexes/mod5.md",
+                "file": "5_resources/set1/Pasted image 20241128164136.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_indexes/mod5.md",
+                "file": "5_resources/set1/Pasted image 20241128164136.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_indexes/mod5.md"
+                "file": "5_resources/set1/Pasted image 20241128164136.png"
               }
             }
           }
@@ -213,22 +211,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "919e17593fae5fba",
+  "active": "1e2a6ca91e834309",
   "lastOpenFiles": [
-    "Importance of groups.md",
-    "mod5 raw.md",
+    "2_answers/mod4/Importance of groups.md",
+    "3_questions/mod5 raw.md",
     "1_indexes/mod5.md",
-    "Stages of group formation.md",
-    "Pasted image 20241128164527.png",
-    "Pasted image 20241128164521.png",
-    "Pasted image 20241128164514.png",
-    "Pasted image 20241128164508.png",
-    "Pasted image 20241128164501.png",
-    "Pasted image 20241128164455.png",
-    "Pasted image 20241128164449.png",
-    "Pasted image 20241128164441.png",
-    "Pasted image 20241128164435.png",
-    "Pasted image 20241128164427.png",
+    "2_answers/mod4/Stages of group formation.md",
+    "5_resources/set1/Pasted image 20241128164527.png",
+    "5_resources/set1/Pasted image 20241128164521.png",
+    "5_resources/set1/Pasted image 20241128164514.png",
+    "5_resources/set1/Pasted image 20241128164508.png",
+    "5_resources/set1/Pasted image 20241128164501.png",
+    "5_resources/set1/Pasted image 20241128164455.png",
+    "5_resources/set1/Pasted image 20241128164449.png",
+    "5_resources/set1/Pasted image 20241128164441.png",
+    "5_resources/set1/Pasted image 20241128164435.png",
+    "5_resources/set1/Pasted image 20241128164427.png",
     "1_indexes/1_main.md",
     "2_answers/mod4/path goal theory.md",
     "2_answers/mod4/Leadership styles `1.md",
