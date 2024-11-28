@@ -6,7 +6,6 @@
       {
         "id": "13614aa866d73586",
         "type": "tabs",
-        "dimension": 57.441471571906355,
         "children": [
           {
             "id": "e7c8b41f5bf966ff",
@@ -14,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/mod4.md",
+                "file": "2_answers/mod4/path goal theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "919e17593fae5fba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_indexes/mod5.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,32 +67,20 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "4dcbea4c120e926e",
+        "id": "622f2249f0adb9c8",
         "type": "tabs",
-        "dimension": 42.558528428093645,
         "children": [
           {
-            "id": "9baca47e693157e1",
+            "id": "803a0ed5a16350c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/mod3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3927c70e0d6e3688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_questions/mod3 raw.md",
+                "file": "mod5 raw.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_indexes/mod4.md",
+                "file": "1_indexes/mod5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_indexes/mod4.md",
+                "file": "1_indexes/mod5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_indexes/mod4.md"
+                "file": "1_indexes/mod5.md"
               }
             }
           }
@@ -214,44 +213,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7c8b41f5bf966ff",
+  "active": "919e17593fae5fba",
   "lastOpenFiles": [
+    "Importance of groups.md",
+    "mod5 raw.md",
+    "1_indexes/mod5.md",
+    "Stages of group formation.md",
+    "Pasted image 20241128164527.png",
+    "Pasted image 20241128164521.png",
+    "Pasted image 20241128164514.png",
+    "Pasted image 20241128164508.png",
+    "Pasted image 20241128164501.png",
+    "Pasted image 20241128164455.png",
+    "Pasted image 20241128164449.png",
+    "Pasted image 20241128164441.png",
+    "Pasted image 20241128164435.png",
+    "Pasted image 20241128164427.png",
+    "1_indexes/1_main.md",
+    "2_answers/mod4/path goal theory.md",
+    "2_answers/mod4/Leadership styles `1.md",
+    "2_answers/mod4/Expectancy model `1.md",
+    "2_answers/mod4/bariers to effective communication.md",
+    "1_indexes/mod4.md",
+    "2_answers/mod4/Comparison models `5.md",
+    "2_answers/mod4/Goal setting `1.md",
+    "2_answers/mod4/Herzberg's two-factor theory `1.md",
+    "2_answers/mod4/ERG theory `1.md",
+    "2_answers/mod4/Maslow's need hierarchy theory `3.md",
+    "2_answers/mod4/Motivational theories.md",
+    "2_answers/mod4/Interpreting motivational models.md",
+    "2_answers/mod4/forms and types of motivation.md",
+    "2_answers/mod4/Motivation `1.md",
+    "2_answers/mod4/mod4 raw.md",
     "1_indexes/mod3.md",
-    "1_indexes/mod2.md",
-    "Effective leaders `2.md",
-    "Pasted image 20241128151451.png",
-    "Pasted image 20241128151443.png",
-    "Pasted image 20241128151425.png",
-    "Leadership grid `1.md",
-    "Pasted image 20241128151240.png",
-    "Pasted image 20241128151235.png",
-    "Pasted image 20241128151228.png",
-    "Pasted image 20241128151220.png",
-    "Pasted image 20241128151214.png",
-    "DART leadership.md",
-    "Pasted image 20241128151200.png",
-    "Pasted image 20241128151155.png",
-    "VUCA leadership.md",
-    "Transactional vs transformational leaders `2.md",
-    "Leadership styles `1.md",
-    "Trait approach and contingency approaches to leadership `2.md",
-    "path goal theory.md",
-    "contingency theory.md",
-    "inherited or learned.md",
-    "beahaviour theory.md",
-    "trait theory.md",
-    "great man theory.md",
-    "trait approach.md",
-    "Leadership `1.md",
-    "Leading vs managing.md",
-    "Managing communication `5.md",
-    "helathy vs unhealthy communication.md",
-    "bariers to effective communication.md",
-    "diagonal communication.md",
-    "Upward communication.md",
-    "lateral communication.md",
-    "Downward communication.md",
-    "communication process.md",
+    "2_answers/mod4/Other forms of communication `1.md",
+    "3_questions/mod3 raw.md",
+    "2_answers/mod4/Trait approach and contingency approaches to leadership `2.md",
+    "2_answers/mod4/Managing communication `5.md",
+    "2_answers/mod4/Upward communication.md",
     "5_resources/set2",
     "3_questions/mod2",
     "2_answers/mod2",

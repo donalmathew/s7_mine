@@ -27,7 +27,7 @@ links:
 	- [sct](https://drive.google.com/file/d/1_WsWegPPB_Zy8SwLPdpsrbNVFm9alAFs/view?usp=drive_link)
 	- 
 - mod5:
-	- [clg](https://drive.google.com/file/d/1iX-8h5Z3a3r1xL86OsuI8AL23jDGdMYd/view?usp=drive_link)
+	- [clg](https://docs.google.com/presentation/d/1_Gj7xxcH9PHxzIyXsqy-Ro9fSlVLVSRl/edit?usp=drive_link&ouid=117803036556437167034&rtpof=true&sd=true)
 	- [ktu](https://drive.google.com/file/d/1BA2PNeKSWwP_mo-mTmYZBT6P_EFwQKAM/view)
 
 

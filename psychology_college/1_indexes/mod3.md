@@ -10,7 +10,7 @@ answers:
     - [[Managing communication `5]]
         - [[Downward communication]]
         - [[Upward communication]]
-        - [[Other forms of communication]]
+        - [[Other forms of communication `1]]
 - [[Leadership `1]]
     - [[Leading vs managing]]
     - [[Trait approach and contingency approaches to leadership `2]]
