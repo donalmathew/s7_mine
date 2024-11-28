@@ -6,6 +6,7 @@
       {
         "id": "13614aa866d73586",
         "type": "tabs",
+        "dimension": 57.441471571906355,
         "children": [
           {
             "id": "e7c8b41f5bf966ff",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/mod3.md",
+                "file": "1_indexes/mod4.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,16 +59,29 @@
         ]
       },
       {
-        "id": "ca1da7a8983400cb",
+        "id": "4dcbea4c120e926e",
         "type": "tabs",
+        "dimension": 42.558528428093645,
         "children": [
           {
-            "id": "fd9fa211b9eec785",
+            "id": "9baca47e693157e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mod3 raw.md",
+                "file": "1_indexes/mod3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3927c70e0d6e3688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_questions/mod3 raw.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mod3 raw.md",
+                "file": "1_indexes/mod4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mod3 raw.md",
+                "file": "1_indexes/mod4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mod3 raw.md"
+                "file": "1_indexes/mod4.md"
               }
             }
           }
@@ -200,53 +214,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd9fa211b9eec785",
+  "active": "e7c8b41f5bf966ff",
   "lastOpenFiles": [
     "1_indexes/mod3.md",
-    "1_indexes/mod4.md",
-    "1_indexes/1_main.md",
-    "mod3 raw.md",
-    "2_answers/mod2/what is organisation.md",
-    "5_resources/set1/Pasted image 20241128123942.png",
-    "5_resources/set1/Pasted image 20241128122940.png",
-    "5_resources/set1/Pasted image 20241128121901.png",
-    "5_resources/set1/Pasted image 20241128120115.png",
-    "5_resources/set1/Pasted image 20241128120204.png",
-    "2_answers/mod2/Organizational Change `1.md",
-    "2_answers/mod2/An organizational behaviour system `1.md",
     "1_indexes/mod2.md",
-    "2_answers/mod2/Organizational Development `1.md",
-    "5_resources/set1/Pasted image 20241128130519.png",
-    "5_resources/set1/Pasted image 20241128130510.png",
-    "5_resources/set1/Pasted image 20241128130502.png",
-    "5_resources/set1/Pasted image 20241128130449.png",
-    "3_questions/mod2/mod2 raw.md",
-    "2_answers/mod2/limitations ob `1.md",
-    "5_resources/set1/Pasted image 20241128130139.png",
-    "2_answers/mod2/Culture and organizational effectiveness `2.md",
-    "2_answers/mod2/Organizational Culture `3.md",
-    "2_answers/mod2/Models `4.md",
-    "2_answers/mod2/Definition `5.md",
-    "2_answers/mod2/handwritten notes.md",
-    "2_answers/mod2/Fundamental concept.md",
-    "2_answers/mod2/Nature of organization.md",
-    "2_answers/mod2/Nature of people `1.md",
-    "2_answers/mod2/importance ob.md",
-    "2_answers/mod2/nature and scope.md",
-    "2_answers/mod2/goals of ob.md",
-    "2_answers/mod2/four key forces influence ob.md",
-    "2_answers/mod2/definition and 4 characteristics.md",
+    "Effective leaders `2.md",
+    "Pasted image 20241128151451.png",
+    "Pasted image 20241128151443.png",
+    "Pasted image 20241128151425.png",
+    "Leadership grid `1.md",
+    "Pasted image 20241128151240.png",
+    "Pasted image 20241128151235.png",
+    "Pasted image 20241128151228.png",
+    "Pasted image 20241128151220.png",
+    "Pasted image 20241128151214.png",
+    "DART leadership.md",
+    "Pasted image 20241128151200.png",
+    "Pasted image 20241128151155.png",
+    "VUCA leadership.md",
+    "Transactional vs transformational leaders `2.md",
+    "Leadership styles `1.md",
+    "Trait approach and contingency approaches to leadership `2.md",
+    "path goal theory.md",
+    "contingency theory.md",
+    "inherited or learned.md",
+    "beahaviour theory.md",
+    "trait theory.md",
+    "great man theory.md",
+    "trait approach.md",
+    "Leadership `1.md",
+    "Leading vs managing.md",
+    "Managing communication `5.md",
+    "helathy vs unhealthy communication.md",
+    "bariers to effective communication.md",
+    "diagonal communication.md",
+    "Upward communication.md",
+    "lateral communication.md",
+    "Downward communication.md",
+    "communication process.md",
+    "5_resources/set2",
     "3_questions/mod2",
     "2_answers/mod2",
-    "readme.md",
     "5_resources/set1",
-    "1_indexes/mod1.md",
     "2_answers/mod4",
     "2_answers/mod3",
     "4_links",
     "5_resources",
     "3_questions",
-    "2_answers",
-    "1_indexes"
+    "2_answers"
   ]
 }

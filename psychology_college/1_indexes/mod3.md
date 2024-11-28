@@ -6,18 +6,19 @@ pyq:
 answers:
 ### **Module 3**
 
-- **Understanding a Social System**
-    - Managing communication
-        - Downward communication
-        - Upward communication
-        - Other forms of communication
-- **Leadership**
-    - Leading vs managing
-    - Trait approach and contingency approaches to leadership
+- [[Understanding a Social System `3]]
+    - [[Managing communication `5]]
+        - [[Downward communication]]
+        - [[Upward communication]]
+        - [[Other forms of communication]]
+- [[Leadership `1]]
+    - [[Leading vs managing]]
+    - [[Trait approach and contingency approaches to leadership `2]]
     - Dimensions of leadership
-    - Leadership styles
-        - VUCA leadership
-        - DART leadership
-        - Transactional vs transformational leaders
-        - Leadership grid
-    - Effective leaders
+    - [[Leadership styles `1]]
+        - [[VUCA leadership]]
+        - [[DART leadership]]
+        - [[vuca-dart comparison `2]]
+        - [[Transactional vs transformational leaders `2]]
+        - [[Leadership grid `1]]
+    - [[Effective leaders `2]]
