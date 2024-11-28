@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1115b0d1cd8d7048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e7c8b41f5bf966ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/1_main.md",
+                "file": "1_indexes/mod3.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +37,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/1_main.md",
+                "file": "1_indexes/mod3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32a5edddc4012770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_indexes/mod2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "ca1da7a8983400cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd9fa211b9eec785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mod3 raw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6a48c11ff17dae5f",
@@ -122,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1_indexes/1_main.md",
+                "file": "mod3 raw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1_indexes/1_main.md",
+                "file": "mod3 raw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1_indexes/1_main.md"
+                "file": "mod3 raw.md"
               }
             }
           }
@@ -183,14 +200,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d5809542044ba9a",
+  "active": "fd9fa211b9eec785",
   "lastOpenFiles": [
+    "1_indexes/mod3.md",
     "1_indexes/mod4.md",
+    "1_indexes/1_main.md",
+    "mod3 raw.md",
+    "2_answers/mod2/what is organisation.md",
+    "5_resources/set1/Pasted image 20241128123942.png",
+    "5_resources/set1/Pasted image 20241128122940.png",
+    "5_resources/set1/Pasted image 20241128121901.png",
+    "5_resources/set1/Pasted image 20241128120115.png",
+    "5_resources/set1/Pasted image 20241128120204.png",
+    "2_answers/mod2/Organizational Change `1.md",
+    "2_answers/mod2/An organizational behaviour system `1.md",
+    "1_indexes/mod2.md",
+    "2_answers/mod2/Organizational Development `1.md",
+    "5_resources/set1/Pasted image 20241128130519.png",
+    "5_resources/set1/Pasted image 20241128130510.png",
+    "5_resources/set1/Pasted image 20241128130502.png",
+    "5_resources/set1/Pasted image 20241128130449.png",
+    "3_questions/mod2/mod2 raw.md",
+    "2_answers/mod2/limitations ob `1.md",
+    "5_resources/set1/Pasted image 20241128130139.png",
+    "2_answers/mod2/Culture and organizational effectiveness `2.md",
+    "2_answers/mod2/Organizational Culture `3.md",
+    "2_answers/mod2/Models `4.md",
+    "2_answers/mod2/Definition `5.md",
+    "2_answers/mod2/handwritten notes.md",
+    "2_answers/mod2/Fundamental concept.md",
+    "2_answers/mod2/Nature of organization.md",
+    "2_answers/mod2/Nature of people `1.md",
+    "2_answers/mod2/importance ob.md",
+    "2_answers/mod2/nature and scope.md",
+    "2_answers/mod2/goals of ob.md",
+    "2_answers/mod2/four key forces influence ob.md",
+    "2_answers/mod2/definition and 4 characteristics.md",
+    "3_questions/mod2",
+    "2_answers/mod2",
+    "readme.md",
+    "5_resources/set1",
+    "1_indexes/mod1.md",
     "2_answers/mod4",
     "2_answers/mod3",
-    "1_indexes/mod3.md",
-    "1_indexes/1_main.md",
-    "readme.md",
     "4_links",
     "5_resources",
     "3_questions",
