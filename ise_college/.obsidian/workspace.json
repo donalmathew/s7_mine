@@ -1,76 +1,80 @@
 {
   "main": {
-    "id": "970c07b5fa94f10a",
+    "id": "8ab8c5dc239de63e",
     "type": "split",
     "children": [
       {
-        "id": "e1d0ebacf8891ee1",
+        "id": "b5485f049affdac2",
         "type": "tabs",
         "children": [
           {
-            "id": "953365493727cfd6",
+            "id": "63db7653afbab8e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4_links/General.md",
+                "file": "index/adhoc.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0fb4979b33ecbb54",
+            "id": "28b2ace3a11a6fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index/mod1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5af9792d81174cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/mod2/5 s of housekeeping `1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f0a273895a57605",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "5_resources/set2/Pasted image 20241021214722.png"
+                "file": "resources/set2/Pasted image 20241130135224.png"
               }
             }
           },
           {
-            "id": "0ffb7444fc53f8f9",
+            "id": "d3e65071c3250e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/mod4.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf1819f935d836e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_indexes/mod4.md",
+                "file": "questions/mod4 raw.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "678a5bcdc444c715",
+            "id": "29acb44a08616826",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_indexes/1_main.md",
-                "mode": "preview",
+                "file": "notes/mod3/Relevance of ergonomics in construction safety.md",
+                "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "ccfed67acdbad728",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -80,15 +84,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "49fd873e028ecb7a",
+    "id": "1898c96d1ea1eb5d",
     "type": "split",
     "children": [
       {
-        "id": "9f282a5ffd6ef6aa",
+        "id": "7c15b26fa29eff58",
         "type": "tabs",
         "children": [
           {
-            "id": "1581980f177ce6b7",
+            "id": "66954ca67506a114",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -98,7 +102,7 @@
             }
           },
           {
-            "id": "8a54d58cae5447ef",
+            "id": "0e37bbce484f76b9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -113,7 +117,7 @@
             }
           },
           {
-            "id": "68b0b6ded45030d7",
+            "id": "056516e95c2660ff",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,22 +128,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "right": {
-    "id": "382c0a9c4833acf0",
+    "id": "71e0b0df5df7dea1",
     "type": "split",
     "children": [
       {
-        "id": "ad786c00c07f9cf0",
+        "id": "84fd77040db0a222",
         "type": "tabs",
         "children": [
           {
-            "id": "62aff16158c72906",
+            "id": "159845425a0e0908",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/mod3/Relevance of ergonomics in construction safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,18 +156,19 @@
             }
           },
           {
-            "id": "2c41ea9c0a6c6756",
+            "id": "4b5e90ad5a21e202",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/mod3/Relevance of ergonomics in construction safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cfd7e2116070fbc1",
+            "id": "3fa47e201258e443",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -173,11 +179,13 @@
             }
           },
           {
-            "id": "263b975687f371eb",
+            "id": "6193ab67a77f500a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/mod3/Relevance of ergonomics in construction safety.md"
+              }
             }
           }
         ]
@@ -197,53 +205,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccfed67acdbad728",
+  "active": "66954ca67506a114",
   "lastOpenFiles": [
-    "4_links/General.md",
-    "1_indexes/mod5.md",
-    "1_indexes/mod4.md",
-    "1_indexes/mod3.md",
-    "1_indexes/mod2.md",
-    "1_indexes/mod1.md",
-    "2_answers/mod1/What is AI? `5.md",
-    "1_indexes/1_main.md",
-    "5_resources/set6/Pasted image 20241120231147.png",
-    "2_answers/mod4/forward chaining `1.md",
-    "5_resources/set6/Pasted image 20241120231659.png",
-    "5_resources/set6/Pasted image 20241120231652.png",
-    "5_resources/set6/Pasted image 20241120231643.png",
-    "5_resources/set6/Pasted image 20241120231628.png",
-    "5_resources/set6/Pasted image 20241120231523.png",
-    "5_resources/set6/Pasted image 20241120231511.png",
-    "2_answers/mod4/backward chaining `1.md",
-    "2_answers/mod4/unification and lifting `1.md",
-    "2_answers/mod4/FOL to CNF `3.md",
-    "5_resources/set6/Pasted image 20241120231231.png",
-    "5_resources/set6/Pasted image 20241120231219.png",
-    "5_resources/set6/Pasted image 20241120231205.png",
-    "2_answers/mod4/resolution `1.md",
-    "2_answers/mod4/Logical Agents.md",
-    "2_answers/mod4/Propositional vs first order inference.md",
-    "2_answers/mod4/Knowledge representation in FOL.md",
-    "2_answers/mod4/First order predicate logic.md",
-    "3_questions/mod4/mod4 raw.md",
-    "2_answers/mod4/propositional theorem proving `5.md",
-    "2_answers/mod4/using first order logic.md",
-    "2_answers/mod4/logic.md",
-    "2_answers/mod4/Knowledge based agents.md",
-    "2_answers/mod4/propositional logic.md",
-    "2_answers/mod4/wumpus world.md",
-    "2_answers/mod5/pruning.md",
-    "2_answers/mod5/advantages.md",
-    "2_answers/mod5",
-    "3_questions/mod5",
-    "3_questions/mod2",
-    "5_resources/set6",
-    "5_resources/set5",
-    "5_resources/set4",
-    "5_resources/set3",
-    "5_resources/set2",
-    "6 other",
-    "3_questions/mod1"
+    "resources/se1/Pasted image 20241130143500.png",
+    "resources/set2/Pasted image 20241130142306.png",
+    "notes/mod3/Blasting.md",
+    "index/mod3.md",
+    "notes/mod3/Musculoskeletal Disorders and Cumulative Trauma Disorders `2.md",
+    "resources/se1/Pasted image 20241130143756.png",
+    "notes/mod3/Familiarization with relevant Indian Standards and the National Building Code provisions on construction safety `3.md",
+    "resources/se1/Pasted image 20241130143733.png",
+    "notes/mod3/Confined space `1.md",
+    "resources/se1/Pasted image 20241130143717.png",
+    "notes/mod3/Demolition `3.md",
+    "resources/se1/Pasted image 20241130143656.png",
+    "resources/se1/Pasted image 20241130143631.png",
+    "resources/se1/Pasted image 20241130143623.png",
+    "notes/mod3/Tunneling `1.md",
+    "resources/se1/Pasted image 20241130143604.png",
+    "notes/mod3/Ladders & Scaffolds `3.md",
+    "resources/se1/Pasted image 20241130143524.png",
+    "notes/mod3/Under-pinning & Shoring `2.md",
+    "resources/set2/Pasted image 20241130143451.png",
+    "notes/mod3/Excavation and filling `3.md",
+    "notes/mod3/Introduction to construction industry and safety issues in construction `2.md",
+    "index/adhoc.md",
+    "index/mod2.md",
+    "notes/mod2/cold work permits.md",
+    "notes/mod2/hot work`1.md",
+    "notes/mod2/objectives `3.md",
+    "notes/mod2/5 s of housekeeping `1.md",
+    "notes/mod2/Responsibility of management and employees `1.md",
+    "notes/mod2/Housekeeping`1.md",
+    "notes/mod2/Monitoring Safety Performance `4.md",
+    "notes/mod2/Types of PPEs `4.md",
+    "index/mod1.md",
+    "notes/mod1/need.md",
+    "notes/mod3/unions.md",
+    "notes/mod1/responsibilities.md",
+    "resources/set2",
+    "resources/se1",
+    "notes/mod5",
+    "notes/mod4",
+    "notes/mod3",
+    "notes/mod2",
+    "notes/mod1",
+    "others",
+    "resources",
+    "questions"
   ]
 }
